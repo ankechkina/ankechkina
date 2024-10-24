@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 :cherry_blossom: My name is Anastasia Kechkina and i'm a frontend developer from Nizhny Novgorod.
 
-📫 How to reach me: @cllrdoor (on telegram)
+📫 Telegram: @ankechkina
